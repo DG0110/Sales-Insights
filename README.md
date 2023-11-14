@@ -15,3 +15,4 @@ The modelled Data is shown below:
 The data is analysed for the Years 2019, 2020 and 2021 for the Sales and Revenue creation. Further, the performance of the top managers and salespersons is analysed.
 
 
+<img width="600" alt="Dashboard" src="https://github.com/DG0110/Sales-Insights/assets/112652526/7b66af4a-2076-4e0a-bc24-e5de027090bf">
