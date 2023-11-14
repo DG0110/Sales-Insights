@@ -1,5 +1,6 @@
 # Sales-Insights
-This Repository contains a Sales Report.
+This Repository contains a Sales Report for a Product Based Company.
+
 The Tool Used is POWER BI.
 
 Some Details:
